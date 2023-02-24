@@ -33,4 +33,4 @@ def print_stairs(num_steps):
 
 
 # Solicită utilizatorului să introducă numărul de trepte al scării
-print_stairs(int(input("write: ")))
+print_stairs(int(input("Scrie numarul d edrepte al scarii: ")))
